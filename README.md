@@ -27,10 +27,7 @@ A random password generator using letters, numbers and symbols.
 ## Installation
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY.git
-cd YOUR_REPOSITORY
 pip install customtkinter
-python main.py
 ```
 
 ## Project Structure
